@@ -1,0 +1,9 @@
+img{
+  border-style: solid;
+  border-color: red;
+  border-radius: 5px;
+  /* padding gives the element space inside a border */
+  padding: 10px;
+  /* margin gives the elemet space around the border */
+  margin: 40px
+}

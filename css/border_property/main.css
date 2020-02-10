@@ -1,6 +1,7 @@
 div {
   width: 100px;
   height: 100px;
+  /* gives a border to your selected element */
   border: 15px groove red;
 }
 img{
