@@ -1,0 +1,27 @@
+.basic{
+  width: 100px;
+  height: 100px;
+  background-color: skyblue;
+  border-radius: 5px;
+  border-style: groove;
+  border-width: 5px;
+  border-color: purple;
+  background-image: url(../../img/kaioken.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.uno{
+  width: 400px;
+  height: 200px;
+  border: 40px dashed red;
+  margin: 20px auto;
+  background-color: skyblue;
+}
+.dos{
+  width: 400px;
+  height: 200px;
+  border: 40px dashed red;
+  margin: 20px auto;
+  box-sizing: border-box;
+  background-color: skyblue;
+}
